@@ -7,7 +7,7 @@ from pathlib import Path
 import shutil, os
 from dotenv import load_dotenv
 
-# Load env and token
+# Load env and token here
 load_dotenv()
 HF_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
 client = InferenceClient("mistralai/Mistral-7B-Instruct-v0.1", token=HF_TOKEN)
