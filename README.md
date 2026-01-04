@@ -1,3 +1,7 @@
+## Feature Branch Changes
+- Added chatbot testing notes
+- Updated project description
+
 ## Testing Git Workflow
 This section is added for learning Git branching and merging.
 
