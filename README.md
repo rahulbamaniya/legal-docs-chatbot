@@ -1,3 +1,6 @@
+## Testing Git Workflow
+This section is added for learning Git branching and merging.
+
 # ⚖️ Law Assistant AI – RAG-based Legal Document Chatbot
 
 A **Generative AI web app** powered by **FastAPI** + **LLM (Hugging Face)** that allows users to **upload legal documents** (PDF/TXT), ask natural language questions, and get **context-aware, intelligent answers** using a **Retrieval-Augmented Generation (RAG)** pipeline.
