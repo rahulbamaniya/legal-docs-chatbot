@@ -3,7 +3,7 @@
 - Updated project description
 
 ## Testing Git Workflow
-This section is added for learning Git branching and merging.
+This section is added for learning Git branching and merging. xyz.
 
 # ⚖️ Law Assistant AI – RAG-based Legal Document Chatbot
 
